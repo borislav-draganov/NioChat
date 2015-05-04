@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NioChat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NioChat_jar</output-path>
+    <root id="archive" name="NioChat.jar">
+      <element id="module-output" name="NioChat" />
+    </root>
+  </artifact>
+</component>
